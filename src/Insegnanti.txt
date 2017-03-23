@@ -1,0 +1,5 @@
+1INSEGNANTE Rosa Rossi 7 2 1985 Classica
+2INSEGNANTE Rossana Rosi 12 5 1987 Moderna
+3INSEGNANTE Valeria Losi 7 2 1985 HipHop
+4INSEGNANTE Sara Risi 3 4 1990 Modernjazz
+5INSEGNANTE Selena Fosi 3 4 1990 Moderna
